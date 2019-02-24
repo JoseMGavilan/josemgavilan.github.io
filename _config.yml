@@ -1,6 +1,6 @@
 # main text of home
 name: Jose Manuel Gavilán Moncada
-bio: Software Engineer and Mathematician
+bio: Provisional GitHub page
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: jmgavilanmoncada@gmail.com
 authors:
     josemgavilan:
         name: Jose Manuel Gavilán Moncada
-        bio: Software engineer and Mathematician - This is my provisional GitHub page
+        bio: Software engineer and Mathematician - Provisional GitHub page
         external-image: false
         picture: assets/images/profile.jpg
 
